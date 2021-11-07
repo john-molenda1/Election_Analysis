@@ -5,9 +5,8 @@ The purpose for the election audit is to provide Seth and Tom the necessary data
 
 ## Election Audit Results
 ### County Vote Breakdown
-*How many votes were cast in this congressional election?
-  *Total Voter Turnout: 369,711
-   ![image](https://user-images.githubusercontent.com/92773195/140629302-fe23cb4f-1f0d-4d8a-9dbc-84e0e3a67531.png)
+*How many votes were cast in this congressional election? - Total Voter Turnout: 369,711
+![image](https://user-images.githubusercontent.com/92773195/140629302-fe23cb4f-1f0d-4d8a-9dbc-84e0e3a67531.png)
   
 *Voter Analyis By County
   Jefferson County achieved 10.5% of the total votes cast with 38,855
