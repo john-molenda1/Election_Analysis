@@ -6,15 +6,17 @@ The purpose for the election audit is to provide Seth and Tom the necessary data
 ## Election Audit Results
 ### County Vote Breakdown
 *How many votes were cast in this congressional election? - Total Voter Turnout: 369,711
-*![image](https://user-images.githubusercontent.com/92773195/140629302-fe23cb4f-1f0d-4d8a-9dbc-84e0e3a67531.png)
+
   
 *Voter Analyis By County
   Jefferson County achieved 10.5% of the total votes cast with 38,855
   Arapahoe County had the smallest total turnout with only 6.7% of the total votes with a mere 24,801 votes
   Denver dominated the election with a shocking 82.8% of the total votes cast with a whopping 306,055 total votes
-![image](https://user-images.githubusercontent.com/92773195/140629410-b153e174-12e6-4c4a-b93c-91d2ea9f546e.png)
+
 *Which County had the most votes cast?
 Denver 
+![image](https://user-images.githubusercontent.com/92773195/140629302-fe23cb4f-1f0d-4d8a-9dbc-84e0e3a67531.png)
+![image](https://user-images.githubusercontent.com/92773195/140629410-b153e174-12e6-4c4a-b93c-91d2ea9f546e.png)
 ![image](https://user-images.githubusercontent.com/92773195/140629430-eda0b1a0-2882-4c6d-bbef-5ddca5a5b535.png)
 ### Candidate Vote Breakdown
 * Charles Casper Stockham received just shy of a quarter of the total votes cast with 85,213 - resulting in 23% of votes cast for him
